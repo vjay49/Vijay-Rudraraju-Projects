@@ -1,7 +1,7 @@
 //Vijay Rudraraju Project Portfolio <br />
 //Feel free to move across the repository's branches to access my work
 
-EECS 280 (Programming and Introduction to Data Structures): <br />
+**EECS 280 (Programming and Introduction to Data Structures):** <br />
 Project 3: Computer Vision and Image Rendering <br />
 **Utilized seam carving algorithm to develop a image resizing algorithm <br />
 that is aware of the image's content to pass-through less important pixels <br />
