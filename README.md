@@ -13,13 +13,13 @@ content. Fed historical training data into model in order to find probabilities 
 containing words from past forum posts and used these probabilities to generate labels for new posts. <br />
 <br />
 <br />
-EECS 281 (Data Structures and Algorithms): <br />
+**EECS 281 (Data Structures and Algorithms):** <br />
 Project 3: Log File Management and Database Query Language <br />
 **Worked with hash tables and larger data structures by reviewing log files <br />
 and understanding query language <br />
 <br />
 <br />
-EECS 484 (Database Management Systems): <br />
+**EECS 484 (Database Management Systems):** <br />
 Project 1: Creating Data Tables and Adding Contraints <br />
 **Used SQL DDL statements to create and drop tables and views <br />
 based on schema put forth by the course. Essentially created a "mock" <br />
@@ -40,7 +40,7 @@ creating a backend implementation for JOIN statements that DBMSs utilize to incr
 efficiencies. Worked to create hash tables and kept memory management in mind <br />
 <br />
 <br />
-Pet Services Demand Model: <br />
+**Pet Services Demand Model:** <br />
 **Created a demand model for the pet services industry based on industry factors that <br />
 contribute to pet demand for a zip code location. This involves scraping data from industry <br />
 sources and creating a weighting systems to rank zip codes relative to each other based on <br />
